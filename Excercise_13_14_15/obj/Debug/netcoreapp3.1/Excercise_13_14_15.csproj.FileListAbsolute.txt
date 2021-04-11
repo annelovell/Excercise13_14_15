@@ -1,0 +1,13 @@
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\bin\Debug\netcoreapp3.1\Excercise_13_14_15.exe
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\bin\Debug\netcoreapp3.1\Excercise_13_14_15.deps.json
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\bin\Debug\netcoreapp3.1\Excercise_13_14_15.runtimeconfig.json
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\bin\Debug\netcoreapp3.1\Excercise_13_14_15.runtimeconfig.dev.json
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\bin\Debug\netcoreapp3.1\Excercise_13_14_15.dll
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\bin\Debug\netcoreapp3.1\Excercise_13_14_15.pdb
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\obj\Debug\netcoreapp3.1\Excercise_13_14_15.csprojAssemblyReference.cache
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\obj\Debug\netcoreapp3.1\Excercise_13_14_15.AssemblyInfoInputs.cache
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\obj\Debug\netcoreapp3.1\Excercise_13_14_15.AssemblyInfo.cs
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\obj\Debug\netcoreapp3.1\Excercise_13_14_15.csproj.CoreCompileInputs.cache
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\obj\Debug\netcoreapp3.1\Excercise_13_14_15.dll
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\obj\Debug\netcoreapp3.1\Excercise_13_14_15.pdb
+C:\Users\pengu\source\repos\Excercise_13_14_15\Excercise_13_14_15\obj\Debug\netcoreapp3.1\Excercise_13_14_15.genruntimeconfig.cache
